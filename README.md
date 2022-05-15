@@ -44,6 +44,6 @@ değiştirmenize gerek yoktur.
 
 ![5](https://user-images.githubusercontent.com/65306271/168447788-638a0478-8aab-4f32-828b-786b427cdeff.png)
 
-**İşlemlerimiz bu kadar artık kodlamaya geçebiliriz. Kodlama kısmı ise sizlerin hayal gücüne kalıyor. İsterseniz uzak bir sunucuya zararlı yazılım yükleyerek bunun bad-usb takılan makineye indirilip çalıştırılmasını sağlayabilirsiniz :)
+**İşlemlerimiz bu kadar artık kodlamaya geçebiliriz. Kodlama kısmı ise sizlerin hayal gücüne kalıyor. İsterseniz uzak bir sunucuya zararlı yazılım yükleyerek bunun bad-usb takılan makineye indirilip çalıştırılmasını sağlayabilirsiniz :)**
 
-**İlerleyen vakitlerde bazı örnekler paylaşıyor olacağım.
+**İlerleyen vakitlerde bazı örnekler paylaşıyor olacağım.**
